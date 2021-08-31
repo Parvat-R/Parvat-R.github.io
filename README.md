@@ -2,7 +2,7 @@
 <div align=center>I am <b>Parvat R</b>, a <kbd>self-thaught</kbd> <em>full-stack web</em> and <em>Telegram bot</em> developer.</div>
 <hr>
 
-<h3 align=center>I have used the below stuffs</div>
+<h3 align=center>I have used the below stuffs</h3>
 
 <!-- Uncomment if you want -->
 <!-- ![Parvat-R Languases-Used](https://raw.githubusercontent.com/Parvat-R/parvat-r.github.io/main/Untitledlanguages-ik.svg) -->
