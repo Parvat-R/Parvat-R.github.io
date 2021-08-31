@@ -71,7 +71,8 @@
 </div>
 
 
----
+<hr/>
+
 
 ## I Live Here:
 [![](https://shields.io/badge/My%20Location-Salem-black?logo=google%20maps&style=for-the-badge)](https://goo.gl/maps/4X2oxzBjYPNQvGsVA)
