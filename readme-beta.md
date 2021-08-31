@@ -20,12 +20,18 @@
   <img height="50px" src="https://shields.io/badge/SVG-black?logo=svg&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/R-black?logo=r&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/PHP-black?logo=php&style=for-the-badge.svg" />
+  
+  <hr />
+  <h4>Frameworks:</h4>
+  
   <img height="50px" src="https://shields.io/badge/Flask-black?logo=flask&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/Node Js-black?logo=node.js&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/Electron Js-black?logo=electron&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/Expresses Js-black?logo=express&style=for-the-badge.svg" />
+  <img height="50px" src="https://shields.io/badge/Socket.io-black?logo=socket.io&style=for-the-badge.svg" />
   
-  <h4>Softwares</h4>
+  <hr />
+  <h4>Softwares:</h4>
   
   <img height="50px" src="https://shields.io/badge/Blender-black?logo=blender&style=for-the-badge.svg" />
   <img height="50px" src="https://shields.io/badge/Selenium-black?logo=selenium&style=for-the-badge.svg" />
