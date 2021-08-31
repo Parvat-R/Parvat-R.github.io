@@ -89,6 +89,5 @@
 
 
 ## Attribution:
-|[![](https://shields.io/badge/Icons-Simple%20Icons-gold?logo=simple+icons&style=for-the-badge)](https://simpleicons.org/) |
-|:---|
-|[![](https://shields.io/badge/Badges-Shields.io-gold?logo=Shields.io&style=for-the-badge)](https://shields.io/) |
+[![](https://shields.io/badge/Icons-Simple%20Icons-gold?logo=simple+icons&style=for-the-badge)](https://simpleicons.org/)
+[![](https://shields.io/badge/Badges-Shields.io-gold?logo=Shields.io&style=for-the-badge)](https://shields.io/)
