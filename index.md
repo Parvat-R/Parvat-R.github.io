@@ -77,9 +77,8 @@
 
 
 ## Contact me:
-|[![](https://shields.io/badge/Telegram-@Parvat_R-black?logo=telegram&style=for-the-badge)](https://telegram.me/parvat_r) |
-|:---|
-|[![](https://shields.io/badge/G--Mail-replyerrors...-black?logo=Shields.io&style=for-the-badge)](mailto:replyerrors.parvat@gmail.com) |
+[![](https://shields.io/badge/Telegram-@Parvat_R-black?logo=telegram&style=for-the-badge)](https://telegram.me/parvat_r)
+[![](https://shields.io/badge/G--Mail-replyerrors...-black?logo=Shields.io&style=for-the-badge)](mailto:replyerrors.parvat@gmail.com)
 
 
 
