@@ -1,3 +1,6 @@
+
+<meta name="keywords" content="Parvat,Parvat R,parvat,parvat.r,parvat-r,r parvat,r.parvat" />
+<meta name="description" content="I am Parvar R, a self-thaught full-stack web and Telegram Bot developer. Contact me on telegram: @Parvat_R" />
 <h1 align=center>Hi there 👋</h1>
 <div align=center>I am <b>Parvat R</b>, a <kbd>self-thaught</kbd> <em>full-stack web</em> and <em>Telegram bot</em> developer.</div>
 <hr>
